@@ -1,4 +1,4 @@
-# Michat88's Nuvio Providers
+# 50P15's Nuvio Providers
 
 A collection of local scrapers for the Nuvio streaming application. These scrapers allow you to fetch streams from various sources directly within the app.
 
